@@ -1,3 +1,5 @@
+# Python Beginner Projects 🐍
+
 ## 🟢  Beginner Projects
 
 These projects focus on core Python fundamentals such as
